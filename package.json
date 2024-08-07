@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@mantine/core": "^7.11.2",
+    "@prisma/client": "^5.17.0",
+    "axios": "^1.7.3",
+    "bcrypt": "^5.1.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dompurify": "^3.1.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "nodemon": "^3.1.4",
+    "prisma": "^5.17.0",
+    "react-router-dom": "^6.26.0"
+  }
+}
